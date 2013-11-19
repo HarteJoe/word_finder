@@ -1,4 +1,4 @@
-# Fusioneer Ruby test - word search in grid of letters
+# Word search in grid of letters
 # @author: Josef Harte
 # A user-defined grid can be used (follow the prompt). This should be a plaintext file that has
 # each row in the grid as a row of letters in the text file, no spaces!
