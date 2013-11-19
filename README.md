@@ -9,3 +9,7 @@ a length greater than 2 letters using a dictionary file. Words that are found ar
 A user-defined grid can be used (follow the prompt). This should be a plaintext file that has
 each row in the grid as a row of letters in the text file, no spaces!
 A random grid will be generated otherwise
+
+The program will look for the dictionary file in the current working directory - it must be called "dict.txt". 
+You can alternatively specify a dictionary file as an argument, but if "dict.txt" is present it will be used 
+regardless.
